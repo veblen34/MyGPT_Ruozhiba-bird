@@ -38,7 +38,7 @@
 
 
 
-### Reference
+## Reference
 
 参考了**JsonBorn7**的框架实现，是非常好的Transformer学习材料。
 
